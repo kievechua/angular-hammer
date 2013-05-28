@@ -1,0 +1,9 @@
+{
+    "name": "angular-hammer",
+    "description": "Angular's directive for hammerjs by monospaced.",
+    "homepage": "https://github.com/kievechua/angular-hammer",
+    "author": "Kieve Chua",
+    "version": "0.1.0",
+    "git": "https://github.com/kievechua/angular-hammer.git",
+    "packages": {}
+}
